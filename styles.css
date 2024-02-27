@@ -1,0 +1,36 @@
+/* Cabeçalho */
+header {
+    background-color: #d83030;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Estilo para o conteúdo principal */
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  /* Estilo para a seção do perfil */
+.profile-section {
+    text-align: center;
+  }
+  
+  .profile-section h2 {
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  .profile-section p {
+    color: #666;
+  }
+  
+  /* Rodapé */
+  footer {
+    background-color: #c5ba22;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
